@@ -39,4 +39,5 @@ $plugin->component = 'theme_aratinga';
                                                                                                                                     
 // This is a list of plugins, this plugin depends on (and their versions).                                                          
 $plugin->dependencies = [                                                                                                           
-    'theme_moove' => '2022112801' 
+    'theme_moove' => '2022112801'
+];
